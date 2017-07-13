@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.wellness.testcases.WellnessTest" duration-ms="154" started-at="2017-06-30T21:15:57Z" finished-at="2017-06-30T21:15:57Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="154" started-at="2017-06-30T21:15:57Z" finished-at="2017-06-30T21:15:57Z">
+      <class name="com.wellness.testcases.WellnessTest">
+        <test-method status="PASS" signature="addIntegerSets()[pri:0, instance:com.wellness.testcases.WellnessTest@7ca48474]" name="addIntegerSets" duration-ms="84" started-at="2017-06-30T16:15:57Z" finished-at="2017-06-30T16:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addIntegerSets -->
+        <test-method status="PASS" signature="findingMaxOIntegerSet()[pri:0, instance:com.wellness.testcases.WellnessTest@7ca48474]" name="findingMaxOIntegerSet" duration-ms="0" started-at="2017-06-30T16:15:57Z" finished-at="2017-06-30T16:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findingMaxOIntegerSet -->
+        <test-method status="PASS" signature="average()[pri:0, instance:com.wellness.testcases.WellnessTest@7ca48474]" name="average" duration-ms="0" started-at="2017-06-30T16:15:57Z" finished-at="2017-06-30T16:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- average -->
+        <test-method status="PASS" signature="multiplicationOfZeroIntegersShouldReturnZero()[pri:0, instance:com.wellness.testcases.WellnessTest@7ca48474]" name="multiplicationOfZeroIntegersShouldReturnZero" duration-ms="16" started-at="2017-06-30T16:15:57Z" finished-at="2017-06-30T16:15:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicationOfZeroIntegersShouldReturnZero -->
+      </class> <!-- com.wellness.testcases.WellnessTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.wellness.testcases.WellnessTest -->
+</testng-results>
